@@ -1,6 +1,6 @@
-def parrot(String= "Squawk!")
-  puts "#{String}"
-  "#{string}"
+def parrot(name= "Squawk!")
+  puts "#{name}"
+  "#{name}"
 end
 
 parrot("Pretty Bird!")
