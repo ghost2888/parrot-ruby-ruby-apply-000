@@ -1,7 +1,7 @@
-def parrot(word = 'Squawk!')
+def parrot(word= "Squawk!")
   puts "#{word}"
-  "#{word}"
+  return "Squawk!"
 end
 
-puts parrot
+parrot
 
